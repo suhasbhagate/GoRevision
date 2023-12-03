@@ -1,0 +1,2 @@
+{"level":"info","ts":1692862980.485339,"caller":"LoggingDemo/LoggingDemo.go:21","msg":"Set Log Output File"}
+{"level":"info","ts":1692863044.3907135,"caller":"LoggingDemo/LoggingDemo.go:24","msg":"Set Log Output File"}

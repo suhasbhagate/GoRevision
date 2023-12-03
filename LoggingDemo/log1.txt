@@ -1,0 +1,5 @@
+2023/08/24 13:06:41 Set Log Output File
+2023/08/24 13:12:41 Set Log Output File
+{"level":"info","ts":1692862961.826485,"caller":"LoggingDemo/LoggingDemo.go:21","msg":"Set Log Output File"}
+2023/08/24 13:13:00 Set Log Output File
+2023/08/24 13:14:04 Set Log Output File
